@@ -12,7 +12,13 @@ As a developer, I always crave and pursue making new and exciting things, so sta
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRiccioRyu%2Fhit-counter&count_bg=%23CA2DE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+### Portfolio  
+Previous company deliverables and personal works : <https://github.com/riccio-ryu/portfolio>  
+Coding test : <https://github.com/riccio-ryu/cote>  
 
+### Notion  
+My Blog : <https://riccio.notion.site/Yeon-log-29b278945ea74d03b539527f9c8f76b9?pvs=4>  
+My Resume : [<https://www.notion.so/riccio/c27b544663524431ad03020ba49492fe>](https://riccio.notion.site/c27b544663524431ad03020ba49492fe?pvs=4)
 
 #### <p align="center"> 📓 Skills 📓 </p>
 <p align="center">I've used at least once</p>
