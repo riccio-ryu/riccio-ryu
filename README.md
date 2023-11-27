@@ -18,7 +18,7 @@ Coding test : <https://github.com/riccio-ryu/cote>
 
 ### Notion  
 My Blog : <https://riccio.notion.site/Yeon-log-29b278945ea74d03b539527f9c8f76b9?pvs=4>  
-My Resume : [<https://www.notion.so/riccio/c27b544663524431ad03020ba49492fe>](https://riccio.notion.site/c27b544663524431ad03020ba49492fe?pvs=4)
+My Resume : <https://riccio.notion.site/c27b544663524431ad03020ba49492fe?pvs=4>
 
 #### <p align="center"> 📓 Skills 📓 </p>
 <p align="center">I've used at least once</p>
